@@ -35,3 +35,4 @@ export * from './po-tag/index';
 export * from './po-toolbar/index';
 export * from './po-tree-view/index';
 export * from './po-widget/index';
+export * from './po-custom-area/index';
