@@ -113,7 +113,6 @@
     "@types/systemjs": "^6.1.0",
     "@typescript-eslint/eslint-plugin": "4.23.0",
     "@typescript-eslint/parser": "4.23.0",
-    "codelyzer": "^6.0.0",
     "del": "^6.0.0",
     "dgeni": "^0.4.14",
     "dgeni-packages": "0.26.12",
